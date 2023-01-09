@@ -418,7 +418,7 @@ export default {
     font-size: 14px;
     font-weight: normal;
     padding: 2px 4px;
-    display: inline-block;
+    
     max-width: 100%;
     
   }
@@ -519,8 +519,8 @@ export default {
     font-size: 14px;
     font-weight: normal;
     padding: 2px 4px;
-    display: inline-block;
-    max-width: 70%;
+    
+    max-width: 100%;
     text-align:center;
     justify-items: center;
     justify-content: center;
