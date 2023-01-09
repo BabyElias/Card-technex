@@ -74,7 +74,7 @@
       </div>
     </div>
   </div>
-  </div>
+  
 </template>
 
 <script>
@@ -137,7 +137,7 @@ export default {
     border: none;
     display: flex;
     flex-direction: column;
-    margin: 40px 0px;
+  
     padding: 4px 8px;
     position: relative;
     flex-wrap:nowrap;
@@ -200,9 +200,9 @@ export default {
     font-weight: 900;
     font-size: 24px;
     line-height: 24px;
-    padding: 4px 8px;
+    /*padding: 4px 8px;*/
     margin-top: 100px;
-    margin-bottom:40px;
+    /*margin-bottom:40px;*/
   }
   
   
@@ -291,21 +291,29 @@ export default {
     background: transparent;
     position: absolute;
     right: 0;
-    padding: 14px;
-    margin: 10px;
-    bottom:100px;
+    padding-top: 13px;
+    /*margin: 10px;*/
+    bottom:60px;
+    padding-left:12px;
+    padding-right:12px;
+    padding-bottom: 13px;
+    
+
+
+    
   }
 .btn--3 .btn__text {
   position:relative;
   z-index: 1;
   color: #ff6f6f;
   transition: color 0.3s;
+  padding-bottom: 10px;
 }
   .button {
     background: transparent;
     position: absolute;
     right: 0;
-    //padding: 14px;
+    /*padding: 14px;*/
     justify-content: center;
     align-items: center;
     text-decoration: none;
@@ -313,13 +321,14 @@ export default {
     height: 46px;
     font-family: 'poppins', 'Montserrat';
     font-weight: 550;
-    //padding-right: 44px !important;
+    /*padding-right: 44px !important;*/
     transition: all 0.1s linear;
     transform: translateZ(0);
     padding: 12px 40px;
     border-radius: 40px;
-    background: #ff6e6e;
-    margin-bottom: 40px;
+    background:#ff6f6f;
+    margin-right:0px;
+    bottom:2px;
   }
   .btn--3::after {
     position: absolute;
@@ -351,14 +360,13 @@ export default {
     position: relative;
     width: 100%;
     
+    
   }
   #overview{
       position:relative;
-      //text-align:center;
+      
   }
-
-
-@media screen and (max-width: 1120px) {
+  @media screen and (max-width: 1120px) {
   #card {
     display: flex;
     flex-direction: column;
@@ -367,8 +375,7 @@ export default {
   .btn--3 {
     background: transparent;
     position: relative;
-    justify-content:center;
-    align-items:center;
+   margin-left:120px;
     
   }
   #col{
@@ -411,7 +418,7 @@ export default {
     font-size: 14px;
     font-weight: normal;
     padding: 2px 4px;
-    //display: inline-block;
+    display: inline-block;
     max-width: 100%;
     
   }
@@ -427,19 +434,115 @@ export default {
     align-self: flex-end;
   }
 }
-  @media screen and (max-width: 960px){
-    #buttons {
+
+
+
+@media screen and (max-width: 960px) {
+  #card {
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+  }
+  #overview{
+      
+      align-items: center;
+      justify-content: center;
+      margin-left:160px;
+      margin-right:0px;
+  }
+  #buttons {
+    
       justify-content: center;
       align-items: center;
       align-self: center;
     }
+   #button
+   {  position: absolute;
+      justify-content: center;
+      align-items: center;
+     
+   }
+   #overall {
+    display: flex;
+    flex-direction: column;
+    padding: 14px;
+    position: relative;
+    width: 100%;
+    padding-right:100px;
+   
+    
+    
+  }
+  
+  .btn--3 {
+    background: transparent;
+    position: relative;
+    justify-content:center;
+    align-items:center;
+    
+  }
+  #col{
+      flex-direction:column;
+  }
+  #content{
+      flex-direction:column;
+      
+  }
+  #image {
+    width: 100%;
+    height:auto;
+    border-radius: 0px 0px 0px 0px;
+  }
+  #img,
+  #overlay {
+    border-radius: 0px 0px 0px 0px;
+  }
+  #content {
+    width: 100%;
+    height: 60%;
+    border-radius: 0px 0px 12px 12px;
+  }
+  #logo {
+    width: 25%;
+    margin-bottom: 2px;
+  }
+  #prize {
+    margin-top: 10px;
+    
+  }
+  #title {
+    padding-bottom:40px;
+    padding-left: 20px;
+    padding-top:40px;
+  }
+  #desc {
+    font-size: 14px;
+    font-weight: normal;
+    padding: 2px 4px;
+    display: inline-block;
+    max-width: 70%;
+    text-align:center;
+    justify-items: center;
+    justify-content: center;
+  }
+  #contact {
+    font-size: 14px;
+  }
+  #contactHead {
+    font-size: 16px;
+  }
+  #buttons {
+    display: flex;
+    flex-direction: column-reverse;
+    align-self: center;
+  }
+}
 
+@media screen and (max-width: 470px) {
+  #card {
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
   }
-  @media screen and (max-width: 470px) {
-    #card {
-      display: flex;
-      flex-direction: column;
-      width: 90vw;
-    }
-  }
+}
 </style>
