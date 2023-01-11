@@ -41,15 +41,15 @@
           </div>
         </div>
         <div id="poc">
-           <div id="contact">
-             <h5 id="contactHead">Contact:</h5>
-             <ul>
-               <li v-for="contact in subevent.poc" :key="contact.name">
-                 <span>{{ contact.name }}</span> : {{ contact.contact }}
-               </li>
-             </ul>
-           </div>
-         </div>
+          <div id="contact">
+            <h5 id="contactHead">Contact:</h5>
+            <ul>
+              <li v-for="contact in subevent.poc" :key="contact.name">
+                <span>{{ contact.name }}</span> : {{ contact.contact }}
+              </li>
+            </ul>
+          </div>
+        </div>
         <div id="col">
           <div v-if="subevent.prize" id="prize">Prizes worth: {{ subevent.prize }}K</div>
           <div v-if="subevent.sessions" id="prize">
@@ -83,7 +83,7 @@
                 <span class="btn__text">Content for the Workshop</span>
               </button>
             </a>
-            
+
             <div id="btn btn--4">
               <a href="https://dashboard.technex.co.in/register/event"
                  class="button">Register for the Event  </a>
@@ -159,7 +159,6 @@
     padding: 4px 8px;
     position: relative;
     flex-wrap: nowrap;
-    
   }
 
   .line-clamp-3 {
@@ -360,10 +359,8 @@
   .btn--3:hover .btn__text {
     color: #fff;
   }
-  
-   #overlay
 
-  {
+  #overlay {
     position: absolute;
     border-radius: 0px 0px 0px 12px;
     display: flex;
@@ -379,7 +376,7 @@
     backdrop-filter: blur(1px);
     -webkit-backdrop-filter: blur(2px);
   }
-  
+
 
 
 
@@ -404,8 +401,9 @@
       flex-direction: column;
       width: 70vw;
     }
-    .button{
-        position:relative;
+
+    .button {
+      position: relative;
     }
 
     .btn--3 {
@@ -413,15 +411,14 @@
       position: relative;
       justify-content: center;
       align-items: center;
-      bottom:20px;
-      margin:0px;
-      
+      bottom: 20px;
+      margin: 0px;
     }
 
     #col {
       flex-direction: column;
     }
-    
+
 
     #content {
       flex-direction: column;
@@ -435,6 +432,7 @@
     #img {
       border-radius: 0px 0px 0px 0px;
     }
+
     #overlay {
       border-radius: 0px 0px 0px 0px;
     }
@@ -452,7 +450,7 @@
 
     #prize {
       margin-top: 10px;
-      margin-bottom:0px;
+      margin-bottom: 0px;
     }
 
     #title {
@@ -483,7 +481,7 @@
       display: flex;
       flex-direction: column;
       align-self: flex-end;
-      margin-top:30px;
+      margin-top: 30px;
     }
   }
 
@@ -493,8 +491,9 @@
       align-items: center;
       align-self: center;
     }
-    .button{
-        position:relative;
+
+    .button {
+      position: relative;
     }
   }
 
@@ -504,33 +503,32 @@
       flex-direction: column;
       width: 90vw;
     }
+
     .button {
       font-size: 10px;
       padding: 15px;
     }
-    #prize{
-        font-size:20px;
+
+    #prize {
+      font-size: 20px;
     }
+
     .btn--3 .btn__text {
-      font-size:10px;
-      
+      font-size: 10px;
     }
+
     .btn--3 {
       padding: 3px;
     }
-
-
   }
-  @media screen and (max-width: 330px) {
-    
 
-    
+  @media screen and (max-width: 330px) {
+
+
+
 
     #prize {
       font-size: 15px;
     }
-
-    
-    
   }
 </style>
