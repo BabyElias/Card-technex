@@ -33,7 +33,7 @@
       left: 0;
       width: 100vw;
       height: 100vh;
-      background-image:url('Technex_Loader_MOV_AdobeExpress.gif'); background-repeat:repeat;
+      background-image:url('Technex_Loader_MOV_AdobeExpress.gif'); background-repeat:no-repeat;
       z-index: 999;
     }
   
