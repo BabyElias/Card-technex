@@ -1,0 +1,446 @@
+  {
+            "parent": "Workshops",
+            "desc": "Many paths lead to success, yet one who starts the journey properly uncovers it utterly. But do you know where these paths lead? Or how these journeys might be? How about hearing them from the experts ! With the rising heat of TECHNEX-23, we chalk up exciting series of workshops to empower you with the fundamentals and clear insights into job options connected to technology and management. The perfect hub to discover and unwrap the other side of your daily existence. Hold your attention and maximize your energy by participating in these events. Gather much by registering now on Technex's official website www.technex.co.in. See you all there!!!",
+            "events": [
+              {
+                "name": "Data Science",
+                
+                 "thumbnail": "/images/events/image17.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "  Data is the new raw material in the corporate world. Are you willing to experiment with that? If not, don't be concerned. Technex is offering an in-depth Data Science program to educate you on the ins and outs of data gathering, storage, analysis, and prediction."}]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Chitrank",
+                    "contact":"9772578931"
+                  },
+                  {
+                    "name": "Priyansh Sahu",
+                    "contact": "7668747527"
+                  }
+                ]
+                
+              },
+              {
+                "name": "ANDROID DEVELOPMENT",
+              
+                "thumbnail": "/images/events/image10.webp",
+               
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "You may have noticed that we tend to use platforms with mobile applications more frequently than those without them. Services are now more easily accessible thanks to apps, which users can use on their smartphones and tablets wherever they go. But do you know what goes into creating an app and making sure it runs smoothly? Or are you interested in creating your own app and looking into this industry as a possible career. We're offering you a special workshop on app development that will introduce you to the subject, walk you through it, and provide you with resources that are well-known around the world and advice from people who have achieved success in it. "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Chitrank",
+                    "contact": "9772578931"
+                  },
+                  {
+                    "name": "Tarun Siddharth",
+                    "contact": "9640834340"
+                  }
+                ]
+               
+              },
+              {
+                "name": "CLOUD COMPUTING",
+               
+                "thumbnail": "/images/events/image9.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of purchasing, operating, and maintaining physical data centers and servers, you may use a cloud provider to obtain technological services such as processing power, storage, and databases on an as-needed basis.  Isn't it an intriguing talent to have under your sleeve? .Worry not as we at technex bring you this exclusive hands-on workshop that aims to provide a comprehensive understanding of cloud computing and help you develop the skills necessary to succeed in today's cloud-driven world."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Chitrank",
+                    "contact": " 9772578931"
+                  },
+                  {
+                    "name": "Priyansh Sahu",
+                    "contact": "7668747527"
+                  }
+                ]
+              },
+              {
+                "name": "INTERNET OF THINGS",
+               
+                "thumbnail": "/images/events/image6.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "You watch movies on a smart T.V. You get your favourite ice cream from your smart fridge and turn on your smart A.C. Why is everything becoming “smart” nowadays? IoT is the culprit behind all this. Internet of Things (IoT) is the network of connected devices and the technology that facilitates communication between devices and the cloud and between the devices themselves. Too complex? Fear not! Technex is providing a comprehensive program on the Internet of Things on integrating everyday devices with the internet. "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Sriram",
+                    "contact": " 6309765035"
+                  },
+                  {
+                    "name": " B.Ganesh",
+                    "contact": "6309140026"
+                  }
+                ]
+              },
+              {
+                "name": "GPT & CHAT GPT",
+               
+                "thumbnail": "/images/events/image3.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Nowadays ,  In the world of artificial intelligence ,there is one name that's been on everyone's lips  and that is CHAT GPT .It  is a cutting-edge AI tool created by open AI  that has taken the world by storm .But , What makes it different from other chatbots ? Is it really that revolutionary? Is it going to take your job? TECHNEX  is going to conduct a session  to solve all your queries to explain to you, how does it work? and what is its future? and much more."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Sriram",
+                    "contact": " 6309765035"
+                  },
+                  {
+                    "name": " Aravind",
+                    "contact": "79954 21047"
+                  }
+                ]
+              },
+              {
+                "name": "ARTIFICIAL INTELLIGENCE",
+               
+                "thumbnail": "/images/events/image5.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "AI enables machines to analyze, and make decisions like humans. AI is a rapidly growing field of research that seeks to create intelligent systems capable of performing complex tasks, including learning and problem-solving. With its potential to revolutionize the way we live and work, AI is quickly becoming an essential part of our lives.  So, why just be a bystander in the era of artificial intelligence? We bring you this exclusive workshop that introduces you to Artificial Intelligence with guidance from those who have excelled in this field. "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Devi Tanuja Vasamsetty",
+                    "contact": "9110538818"
+                  },
+                  {
+                    "name": "Suharshini",
+                    "contact": "9182964450"
+                  }
+                ]
+              },
+              {
+                "name": "MACHINE LEARNING",
+               
+                "thumbnail": "/images/events/image8.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Machine learning is a field of artificial intelligence that uses algorithms to learn from data and make predictions or decisions without being explicitly programmed. It involves using statistical methods to analyze and understand patterns in large data sets to develop models that can make accurate predictions or classifications.                        "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Devi Tanuja Vasamsetty",
+                    "contact": "9110538818"
+                  },
+                  {
+                    "name": "Shiva Kumar",
+                    "contact": "9391577659"
+                  }
+                ]
+              },
+              {
+                "name": "AUTOMOBILE DESIGN AND EV",
+               
+                "thumbnail": "/images/events/image15.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "The workshop offers a unique blend of creative design and cutting-edge technology on automobiles. With the rising demand of automobiles, a lot of innovations are made and yet expected even more. Any innovation can be made possible if started with proper basics. You will have the opportunity to work with industry experts and learn about the latest trends and developments in the electric vehicle industry. Whether you're a professional designer or just someone with a passion for cars, this workshop is the perfect opportunity to immerse yourself in the exciting world of electric vehicles."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Krishna Kishore",
+                    "contact": "6309879572"
+                  },
+                  {
+                    "name": "Varshini",
+                    "contact": "9550034007"
+                  }
+                ]
+              },
+              {
+                "name": "PYTHON PROGRAMMING",
+               
+                "thumbnail": "/images/events/image13.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "One of the most versatile languages in programming, Python is important in all the domains budding programmers are interested in; from Machine Learning to Web Development to Data Analytics, Python is a major player in each and every one of them. We here at Technex are providing workshops for beginners and anyone wishing to dig in deep into Python programming. So, get into the zone and let's build and learn together! "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Devi Tanuja Vasamsetty",
+                    "contact": "9110538818"
+                  },
+                  {
+                    "name": "Suharshini",
+                    "contact": "9182964450"
+                  }
+                ]
+              },
+              {
+                "name": "WEB DEVELOPMENT",
+               
+                "thumbnail": "/images/events/image2.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Discover the magic of web development and learn how to create your own websites from scratch. Whether you're a beginner or looking to brush up on your skills, this workshop is the perfect opportunity to immerse yourself in the exciting world of web development. So, bring your passion and ideas, and let's build the future of the web together!"}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Geetika",
+                    "contact": "8574211708"
+                  },
+                  {
+                    "name": "Suharshini",
+                    "contact": " 9182964450"
+                  }
+                ]
+              },
+              {
+                "name": "BLOCKCHAIN & CRYPTOCURRENCY",
+               
+                "thumbnail": "/images/events/image18.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "A Crypto and Blockchain Workshop is an educational program that focuses on the concepts and applications of cryptocurrency and blockchain technology. Participants learn about the underlying principles of these technologies, including cryptography, distributed systems, and decentralised consensus. The workshop is designed to provide a hands-on experience in the creation and use of cryptocurrency, as well as an understanding of how blockchain is being used to solve real-world problems."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Keerthana",
+                    "contact": "8179499840"
+                  },
+                  {
+                    "name": "Venu",
+                    "contact": " 6301613356"
+                  }
+                ]
+              },
+              {
+                "name": "BRIDGE DESIGN",
+               
+                "thumbnail": "/images/events/image11.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Bridge Design Workshops will provide participants with a comprehensive understanding of the process and principles of bridge design. By the end of this workshop, you will be able to apply your knowledge to real-world design challenges and understand how to create safe and effective bridge structures."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Geetika",
+                    "contact": "8574211708"
+                  },
+                  {
+                    "name": "Kalpik",
+                    "contact": "9950088940"
+                  }
+                ]
+              },
+              {
+                "name": "ROBOTICS",
+               
+                "thumbnail": "/images/events/image7.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Robotics Workshops provide an introduction to the field of robotics. Participants engage in building and programming robots using a variety of materials and software tools.Whether you're a beginner or have some experience in robotics, these workshops provide an opportunity to explore the fascinating world of robots and gain hands-on experience in this rapidly-growing field."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Keerthana",
+                    "contact": "8179499840"
+                  },
+                  {
+                    "name": "Jaswanth",
+                    "contact": "8143072004"
+                  }
+                ]
+              },
+              {
+                "name": "ETHICAL HACKING & CYBER SECURITY",
+               
+                "thumbnail": "/images/events/image16.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Are you ready to dive into the fascinating world of cyber security and ethical hacking? The workshop will give you an understanding of the current threats and challenges in the cyber world. You will leave this course with the knowledge and abilities need to secure your digital assets from theft and cyberattacks. This is a unique opportunity to learn from the best and join a community of individuals passionate about cyber security and ethical hacking."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Krishna Kishore",
+                    "contact": "6309879572"
+                  },
+                  {
+                    "name": "Utkarsh",
+                    "contact": "6378639230"
+                  }
+                ]
+              },
+              {
+                "name": "INDUSTRIAL AUTOMATION",
+               
+                "thumbnail": "/images/events/image12.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Industrial automation workshop is a thrilling experience for those interested in technology and manufacturing. With hands-on learning, participants will get to understand the intricacies of automation and control systems, from PLC programming to robotic systems. The industrial automation workshop is the perfect opportunity to expand your knowledge and gain valuable hands-on experience."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Rahul Rathod",
+                    "contact": "9502473947"
+                  },
+                  {
+                    "name": "Lokesh",
+                    "contact": "81795 34218"
+                  }
+                ]
+              },
+              {
+                "name": "HOME AUTOMATION & EMBEDDED SYSTEMS",
+               
+                "thumbnail": "/images/events/image14.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Home Automation and Embedded System Workshop is aimed at introducing participants to the concept of automating various household devices and systems using embedded technology. The workshop covers hands-on training on programming microcontrollers and integrating various sensors and actuators to build a smart home system.  "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Rahul Rathod",
+                    "contact": "9502473947"
+                  },
+                  {
+                    "name": "Ganesh",
+                    "contact": "9390094288"
+                  }
+                ]
+              },
+              {
+                "name": "DIGITAL MARKETING",
+               
+                "thumbnail": "/images/events/image4.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Digital marketing is the promotion of products or services using digital technologies, including the internet, mobile devices, social media, search engines, and other channels. It helps businesses reach a wider audience and connect with customers through targeted and personalized communication, ultimately driving more sales and revenue."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Kowsik",
+                    "contact": "9346720588"
+                  },
+                  {
+                    "name": "Jagadeesh",
+                    "contact": "9110362689"
+                  }
+                ]
+              },
+              {
+                "name": "METAVERSE & AUGMENTED REALITY",
+               
+                "thumbnail": "/images/events/image1.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Metaverse refers to a virtual world that exists as a collective space for users to interact and participate in a simulated environment. Augmented reality (AR) is a technology that enhances the physical world with virtual information and experiences. AR combines real and virtual elements to create an interactive and immersive experience. Both metaverse and AR are seen as the future of entertainment, education, and commerce. They provide new ways for people to connect, learn, and engage in various activities."}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Kowsik",
+                    "contact": "9346720588"
+                  },
+                  {
+                    "name": "Ritesh",
+                    "contact": "76808 25017"
+                  }
+                ]
+              }
+
+
+
+
+            ]
+          }
+    
+    
+  
