@@ -1,0 +1,34 @@
+  {
+            //"parent": "Workshops",
+            //"desc": "Many paths lead to success, yet one who starts the journey properly uncovers it utterly. But do you know where these paths lead? Or how these journeys might be? How about hearing them from the experts ! With the rising heat of TECHNEX-23, we chalk up exciting series of workshops to empower you with the fundamentals and clear insights into job options connected to technology and management. The perfect hub to discover and unwrap the other side of your daily existence. Hold your attention and maximize your energy by participating in these events. Gather much by registering now on Technex's official website www.technex.co.in. See you all there!!!",
+            "events": [
+            
+              {
+                "name": "Strategy Wise",
+               
+                "thumbnail": "/images/events/stratergywise.webp",
+                
+                "description": [
+                  {
+                    "desc" : [
+                      {
+                        "1" : "Strategy Wise, is a premier consulting case competition where participants are given a real-world business challenge and are tasked with developing innovative solutions in a fast-paced, intense environment.The competition format is designed to be rigorous and demanding, reflecting the real-world demands of a consulting career. Participants will need to work in teams, presenting their solutions in a compelling and concise manner to a panel of expert judges, and testing their analytical, critical thinking, and skillset of communication and research. "}
+                    ]
+                  }
+                ],
+                "poc": [
+                  {
+                    "name": "Rupesh Zagade",
+                    "contact": "91 99215 42523"
+                  }
+                ]
+              }
+
+
+
+
+            ]
+          }
+    
+    
+  
