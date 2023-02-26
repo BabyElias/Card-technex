@@ -1,0 +1,766 @@
+[
+  {
+    "parent": "Byte the Bits",
+    "desc": "Dive into the different domains of computation with Byte the bits. The events are designed to test your skill in competitive programming, machine learning and information security against the best in the world. Get your grey matter ready to solve some exciting problems!",
+    "events": [
+      {
+        "name": "International Coding Marathon",
+        "thumbnail": "/images/events/icm.webp",
+        "register_UnStop": null,
+        "prize": "20",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "International Coding Marathon is the flagship competitive programming event of Technex. Put your problem solving skills to the test against tens of thousands of participants worldwide and win prizes."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Kushagra Goel",
+            "contact": "9566204257"
+          }
+        ],
+        "Duration": "2-3 hours"
+      },
+      {
+        "name": "MLWare",
+        "prize": "20",
+        "problem_statement": "/content/event/mlware_ps_final.docx.pdf",
+        "thumbnail": "/images/events/mlware.webp",
+        "register_UnStop": "https://unstop.com/p/mlware-the-machine-learning-championship-technex23-indian-institute of-technology-iit-bhu-varanasi-614795",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Play with the data which rules the world. MLware by technex is a convocation of experts who leverage their acumen in the field to conquer a real-world problem or optimize a model through the utilization of advanced techniques and algorithms. Participants contend for prestige and prizes by demonstrating exceptional performance on a provided dataset, by demonstrating exceptional performance on a provided dataset."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Vaibhav Tripathi",
+            "contact": "9130172737"
+          }
+        ],
+        "Duration": "3 days"
+      },
+      {
+        "name": "Hack it Out",
+        "prize": "20",
+        "thumbnail": "/images/events/hackit.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "A theme based web/app development hackathon having two rounds. The first round will be elementary and will involve prototype development, while the finals will be on campus. Participants are free to use any tech stack."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Divyansh Srivastava",
+            "contact": "8874841678"
+          }
+        ],
+        "Duration": "24 hours"
+      },
+      {
+        "name": "Game Jam",
+        "prize": "20",
+        "thumbnail": "/images/events/game.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "A Game development competition for all the game developers out there. Showcase your creativity and game dev skills to make a fun and exciting game with unique mechanics based around a certain theme in 7 days. Participants are free to use any Game Engine or framework."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Arunabh Gupta",
+            "contact": "8529926751"
+          }
+        ],
+        "Duration": "24 hours"
+      },
+      {
+        "name": "CTF",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_ctf.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "An International open to all online CTF competition for all the hackers to flaunt their skills in various areas of computing and solve real-life security challenges. Solve some real-life cyber security challenges and be on top of the leader board. Participants should have profound knowledge of fields of cyber security and hacking in order to retrieve a hidden flag."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Eshwar S",
+            "contact": " 8920090117"
+          }
+        ],
+        "Duration": "24 hours"
+      },
+      {
+        "name": "Polyglot",
+        "prize": "20",
+        "thumbnail": "/images/events/polygot.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "An event that combines elements of relay racing and solving challenging problems in multiple languages. Brace yourselves to get your multi language skills checked. Participants will be given tasks, ranging from API calls to Filesystem based tasks, and the most popular languages get banned in subsequent rounds."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Abhinav Jha",
+            "contact": "7004989100"
+          }
+        ],
+        "Duration": "24 hours"
+      }
+    ]
+  },
+  {
+    "parent": "Robonex",
+    "desc": "Robonex brings to you multiple events focusing on the intersection of robot control and dynamics, machine learning, and image processing. The events will bring out the inner roboticist in you, as you participate in challenges and solve the different problems. It will test your ability to design, build and operate robots efficiently.",
+    "events": [
+      {
+        "name": "Robowars",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_robogeddon.webp",
+        "register_UnStop": null,
+        "problem_statement": "https://drive.google.com/file/d/19kfNYRpal_en0rEHydzyCx2pFCM0cLP7/view",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Get ready for an epic showdown! Technex'23 presents the highly anticipated Robowars, where robots from all over India clash in a brutal arena to determine who will reign supreme. This is your chance to witness the intense battles between metal beasts and see sparks fly in this gladiatorial contest. After a long wait of 2 years, Robowars is back with more teams, greater prizes, and even more destruction. Join the ranks and fight for glory, with prizes totaling over "
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Atharva Bhatt",
+            "contact": "7987291308"
+          },
+          {
+            "name": "Raghavansh Singla",
+            "contact": "7230060036"
+          },
+          {
+            "name": "Aryaman Gupta",
+            "contact": "9779717444"
+          },
+          {
+            "name": "Vivek Agarwal",
+            "contact": "7572815307"
+          }
+        ],
+        "Duration": "2 days"
+      },
+      {
+        "name": "MazeX",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_mazex.webp",
+        "problem_statement": "https://drive.google.com/file/d/19rQ16D5qvMYTa69NE4GPWG_pN29AURL2/view",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "There are always multiple paths but only one of them leads to the destination.   Building autonomous mobile robots is the buzz of the moment, and has large-scale applications from warehouse management to exploration in non-habitable terrains. Taking the first step into this, we bring forward to you MazeX, a maze-solving event that requires you to create line-following robots with capabilities to solve complex mazes in challenging routes."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Srini Rohan",
+            "contact": "8179068025"
+          },
+          {
+            "name": "Ankur Agarwal",
+            "contact": "9129219518"
+          }
+        ],
+        "Duration": "2 days"
+      },
+      {
+        "name": "Robotics Conclave",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_robotics.webp",
+        "problem_statement": "https://drive.google.com/file/d/19tMFH-XIqk5TOewyePgoIH_WUnq7GqvS/view",
+        "register_UnStop": "https://unstop.com/competitions/robotics-conclave-robots-exhibition-event-technex23-indian institute-of-technology-iit-bhu-varanasi-612165",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "The event is an opportunity for robotics enthusiasts to demonstrate their projects and share their knowledge with the community. Participants will showcase their skills in designing and developing robots, showcasing cutting-edge technology and creative solutions in the field of robotics."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Chahak Jethani",
+            "contact": "9424465175"
+          },
+          {
+            "name": "Amitesh Vatsa",
+            "contact": "7004085072"
+          }
+        ],
+        "Duration": "2 days"
+      }
+    ]
+  },
+  {
+    "parent": "Supernova",
+    "desc": "Supernova is a culmination of four events based on various fields of astronomy, namely astrophysics, astrophotography, current affairs, mythology, and problem-solving. These events are sure to test your mettle as each event attracts participation from across the country and requires you to be an astronomy aficionado.",
+    "events": [
+      {
+        "name": "Astro-Quiz",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_astroquiz.webp",
+        "register_UnStop": "https://unstop.com/quiz/astroquiz-astronomy-quiz-competition-technex23-indian-institute-of-t echnology-iit-bhu-varanasi-610027 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "AstroQuiz is a fast-paced quizzing event where the participants are judged on how well versed they are with various branches of astronomy such as astrophysics, mythology, space missions, black holes and current affairs to name a few. To test their understanding and know-how in Astronomy, contestants are expected to compete over three different rounds."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Nehete Shubham Pradip",
+            "contact": "8625044803"
+          },
+ 
+          {
+            "name": "Rahul",
+            "contact": "8676933046"
+          }
+        ]
+      },
+      {
+        "name": "Scientists of Utopia",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_sou.webp",
+        "register_UnStop": "https://unstop.com/competitions/scientists-of-utopia-a-case-study-competition-technex23-indi an-institute-of-technology-iit-bhu-varanasi-610070 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "The most quirky event of the category “Supernova” which deals hypothetically, Scientists of Utopia is a case study event involving the problems faced by Utopian scientists on an ideal planet. They are capable of doing anything, but are you? Participants are required to help Utopian scientists cope up with the problems by their intriguing solutions to the case study."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Varun",
+            "contact": "83549 61655"
+          },
+          {
+            "name": "Wavhal Sanket Sanjay",
+            "contact": "7448191134"
+          }
+        ]
+      },
+ 
+      {
+        "name": "Exploring the Interstellar",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_Exploring+the+interstellar.webp",
+        "register_UnStop": "https://unstop.com/competition/exploring-the-interstellar-technex23-indian-institute-of-technol ogy-iit-bhu-varanasi-610921 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Exploring the Interstellar is an observational astronomy event which provides you the platform to showcase your observational as well as telescope handling skills. You may be pointing to Stars, Constellations or Messiers using our provided laser pointer or telescopes accordingly. So get ready to feel alive while the world sleeps!"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Pratyush Singh",
+            "contact": "7985307394"
+          },
+          {
+            "name": "Suraj",
+            "contact": "7378971514"
+          }
+        ]
+      },
+      {
+        "name": "Astrophotography",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_astrophotography.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Just as the name suggests, Astrophotography is an event that encompasses the interesting field of astronomy along with the vast expanse of photography. The participants will be tested on their technical prowess and their know-how about various mythologies related to astronomy."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Sumant",
+            "contact": "7858940936"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "parent": "Riqueza",
+    "desc": "Riqueza is a multi disciplinary event that encompasses the Business domains of Finance, Product Management and Fundamental Business Awareness. The event pits you against contestants from over the country as you engage in an enthralling competition of wits and using your business skills to come out on top.",
+    "events": [
+      {
+        "name": "VCIC (Venture Capital Investment Competition)",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_vcic.webp",
+        "register_UnStop": "https://unstop.com/competitions/venture-capital-investment-competition-technex23-indian-in stitute-of-technology-iit-bhu-varanasi-612643",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "As the name suggests, VCIC intends to recognize and encourage investors of the future by identifying companies with significant potential for growth and success. Teams will assume the role of venture capitalists and are given a hypothetical fund to invest in and to evaluate bona fide business plans before making investment decisions."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Ritik Chourasiya",
+            "contact": "8120356101 "
+          }
+        ]
+      },
+      {
+        "name": "PRODOMANIA",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_prodomania.webp",
+        "register_UnStop": "https://unstop.com/competitions/prodomania-technex23-indian-institute-of-technology-iit-bhu -varanasi-611133 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Product manager’s battlefield - Technical and design competency explicitly critiqued along with the strategy. Prodomania is the best platform for aspiring product managers and aspiring entrepreneurs to enter the world of products and begin their product adventure"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Prince",
+            "contact": "9065765411"
+          }
+        ]
+      },
+      {
+        "name": "Strategy Wise",
+        "thumbnail": "/images/events/stratergywise.png.webp",
+        "register_UnStop": "https://unstop.com/competitions/strategywise-consulting-case-competition-technex23-indian institute-of-technology-iit-bhu-varanasi-610959 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Strategy Wise, is a premier consulting case competition where participants are given a real-world business challenge and are tasked with developing innovative solutions in a fast-paced, intense environment.The competition format is designed to be rigorous and demanding, reflecting the real-world demands of a consulting career. Participants will need to work in teams, presenting their solutions in a compelling and concise manner to a panel of expert judges, and testing their analytical, critical thinking, and skillset of communication and research. "
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Rupesh Zagade",
+            "contact": "91 99215 42523"
+          }
+        ],
+        "prize": "20"
+      },
+      {
+        "name": "TECHNALYTICS",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_technanalytics.webp",
+        "register_UnStop": "https://unstop.com/competitions/technalytics-the-databusiness-analytics-event-technex23-in dian-institute-of-technology-iit-bhu-varanasi-611333 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Competition where you will be a detective searching for insights and answers, a lover whose love for the data increases forever. Participants will be tested with skills of analytics, probability, statistics, visualization, and last but not least patience. So be ready to get trapped in the data mesh or come out as a winner."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Rangwani Anands",
+            "contact": "7096876711"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "parent": "Pahal",
+    "desc": "Pahal is an initiative-cum-multidimensional event that covers a wide range of categories of sustainable topics. This event places you against opponents from across the country in an entertaining intellectual competition in which you must utilise your ideas and pitching skills to win.",
+    "events": [
+      {
+        "name": "TreasHawks",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_treasurhawks.webp",
+        "problem_statement": "https://drive.google.com/file/d/1AGsiJDoOvIwl6YSu5MARnxSaeaBODLyX/view?usp=share_link",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "TreasHawks  is a treasure hunt event in which a team of 2 - 3 members have to find out the ultimate final treasure using the clues located at various locations across the beautiful campus. The aim is to use your thinking and analysis skills to work out on the clues provided and exposing you to some of the mesmerizing locations of our campus ."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Sahil Kumar",
+            "contact": " 7876025693"
+          },
+          {
+            "name": "SINGH RITIWIJ BIRBAHADUR ",
+            "contact": "9372352374"
+          },
+          {
+            "name": "Pratham Chaudhary ",
+            "contact": "8791353504"
+          }
+        ]
+      },
+      {
+        "name": "DragonPitch",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_dragon+pitch.webp",
+        "problem_statement": "https://drive.google.com/file/d/1AOESqbIIYpuBKzsez0YLToiOSX9jAN7r/view?usp=share_link",
+        "register_UnStop": "https://unstop.com/competition/dragon-pitch-a-case-study-competition-technex23-indian-insti tute-of-technology-iit-bhu-varanasi-610747",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Unlock the full potential of your product with expert product management strategies.",
+                "2": "Experience the excitement of DragonPitch, where participants will pitch their cutting-edge solutions to real-world product management challenges. ",
+                "3": "Participants in this event will have the opportunity to showcase their innovative product skills by pitching a unique and creative solution to a given problem statement. The winning team will be awarded prizes, and all participants will receive valuable feedback and networking opportunities. "
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Gaurav Chaudhary",
+            "contact": "9026923825"
+          },
+          {
+            "name": "Jaivardhan tiwari",
+            "contact": "7339792134"
+          },
+          {
+            "name": "Sanskar Singh",
+            "contact": "7905400186"
+          }
+        ]
+      },
+      {
+        "name": "SHE",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_she.webp",
+        "problem_statement": "https://drive.google.com/file/d/1AHT37Hf6a8ibJeLNB80TJug6AZSe_zju/view?usp=share_link",
+        "register_UnStop": "https://unstop.com/competitions/she-a-tech-debate-event-technex23-indian-institute-of-techn ology-iit-bhu-varanasi-610979",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "SHE is a techno-managathon event of 3 rounds in which a team of 2- 3 members have to work on the given problem statement. We aim to create a platform to address challenges WOMAN faces with technologies of tomorrow. It provides a platform to solve some of the pressing problems woman face in our daily lives "
+              }
+            ]
+          }
+        ],
+        
+        "poc": [
+          {
+            "name": "Kaushik Saraogi",
+            "contact": "9127891649"
+          },
+          {
+            "name": "Sangam Kumar",
+            "contact": "8051004285"
+          },
+          {
+            "name": "Reethu Jahnavi",
+            "contact": "9000345085"
+          },
+          {
+            "name": "Ishika Singh",
+            "contact": "8307951292"
+          }
+        ]
+      },
+ 
+      {
+        "name": "Fake Investors",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_Fake Investers.webp",
+        "problem_statement": "https://drive.google.com/file/d/1AKEGkJPo5NrNvklJF1k2LKR3jLRcCZLz/view?usp=share_link",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Attention investors!",
+                "2": "Are you ready to put your analysis and investing skills to the test and bid on the next big startup idea? If yes ,then come and put your skills to the test with Fake Investors, the interactive and exciting auction-based event conducted in two rounds . Fake Investors will challenge your ability to analyze and evaluate the potential of each startup idea, as you bid against other teams using fake money ",
+                "3": "Be ready with your team of 4-5 partners and join us for Fake Investors, let the bidding begin!"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Aryan Patel",
+            "contact": "8200199827"
+          },
+          {
+            "name": "Pragya Singh",
+            "contact": "8100354371"
+          },
+          {
+            "name": "Shashwat Tripathi",
+            "contact": "9335440132"
+          },
+          {
+            "name": "Janapati Sandeep ",
+            "contact": "6302698521"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "parent": "Extreme Engineering",
+    "desc": "Extreme Engineering is the field that involves and cherishes the real-life development being brought up by the analysis of the intellectual design we create through the base of our research. The event consists of interesting competitions to test your ability to convert your imagination to innovation viz. Research, design, and analyze your model and to build it.",
+    "events": [
+      {
+        "name": "Build It",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_buildit.webp",
+        "problem_statement": "https://drive.google.com/file/d/19vJfRXB8L4Vbg5qwlJp2uExz9J4Ox0L-/view?usp=share_link",
+        "register_UnStop": "https://unstop.com/competitions/build-it-technex23-indian-institute-of-technology-iit-bhu-vara nasi-611262 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "This is a competition that focuses on CAD design and FEA analysis. Participants will be given a manufacturing drawing to create a CAD model and perform FEA analysis on it. Material will be provided to create real-life models. It is an opportunity to showcase skills and compete with other talented individuals in the field."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Shibang Das",
+            "contact": "9007559005"
+          }
+        ],
+        "Duration": "3 days"
+      },
+      {
+        "name": "Bridge the Gap",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_bridge.webp",
+        "problem_statement": "https://docs.google.com/document/d/19vI2YpuuE2GZ1e71UOR7xVsPamrgw-i_/edit?usp=share_link&ouid=100412934752501203900&rtpof=true&sd=true",
+        "register_UnStop": "https://unstop.com/competitions/bridge-the-gap-technex23-indian-institute-of-technology-iit-b hu-varanasi-611217 ",
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Technex 2023 presents you with the competition to design an efficient, sustainable and reliable bridge truss frame using simple popsicle sticks. The objective of the competition is to develop and foster the innovation acumen of the students, and to promote their interests in topics of Civil and Mechanical Engineering and tackle real life problems often experienced during construction in uneven terrain."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Abhay Singh",
+            "contact": "8299718997"
+          }
+        ],
+        "Duration": "2 days"
+      },
+      {
+        "name": "Axelerate",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_axelerate.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "When your brain says car, your blood says race,  right! To all the racing enthusiasts over there, Technex 2023 presents you  “Axelerate” .An event which features a variety of remote-control cars racing around an obstacle course, showcasing the latest advancements in remote control technology and the skills of our participants as they maneuver their cars through challenging courses. And, spectators will have the opportunity to see the cars in action and learn about the technology and engineering behind them."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "G. Sri Maha Lakshmi",
+            "contact": "9494569262"
+          }
+        ],
+        "Duration": "3 days"
+      },
+      {
+        "name": "Hydracs",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_hydracs.webp",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Unleash your engineering prowess and join Technex'23 for the ultimate challenge - HYDRACS! Showcase your skills and creativity in fluid power technology by designing and building a hydraulic-powered machine that will blow away the competition. Prove your abilities and dominate in the field of hydraulic machinery at Technex23!"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "G. Sri Maha Lakshmi",
+            "contact": "9494569262"
+          },
+          {
+            "name": "Rupesh Zagade",
+            "contact": "9921542523"
+          }
+        ],
+        "Duration": "3 days"
+      }
+    ]
+  },
+  {
+    "parent": "Ascension",
+    "desc": "Ascension is one of those breathtaking events which cover the domains of aeromodelling as well as aerial robotics. Game simulation is a crucial integrant of this event that makes it even more engrossing. While programming a quadcopter to make it autonomous is itself quite invigorating for the contestants, on the other hand, they get to showcase their UAV designing skills to carry out certain tasks.",
+    "events": [
+      {
+        "name": "Momentum",
+        "prize": "10",
+        "thumbnail": "/images/events/Resize_Momentum.webp",
+        "problem_statement": "https://docs.google.com/document/d/18yXEw-TXIdiskoojr7qM4XB0OSiBQlMx/edit?usp=share_link&ouid=100412934752501203900&rtpof=true&sd=true",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Are you ready for a blast of fun and learning? Using just a plastic bottle, water, and a pump, you'll build and launch your own water rocket and see how high and far your creation can soar into the sky. Your water rocket launch will be judged, and the farthest launches will be awarded.  Not only will you have a blast, but you'll also learn valuable skills that will challenge your mind and broaden your horizons. So, grab your team and let's launch into action!"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Tanisha Singh",
+            "contact": "9569923639"
+          }
+        ]
+      },
+      {
+        "name": "Drone Tech",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_Dronetech.webp",
+        "problem_statement": "https://docs.google.com/document/d/19KF8jKk1pRqMPqmLP8NisofuopV2JQ0T/edit?usp=share_link&ouid=100412934752501203900&rtpof=true&sd=true",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Get ready for a high-flying adventure at our drone event! You will have design, build and navigate your drone through challenging obstacles and put your piloting skills to the test. Connect with other drone enthusiasts, learn from experts, and see who comes out on top in this thrilling competition. Join Technex 23’ for an unforgettable experience!"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Ayush Jha",
+            "contact": "7808227336"
+          }
+        ]
+      },
+      {
+        "name": "La Trajectoire",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_La Trajectoire.webp",
+        "problem_statement": "https://docs.google.com/document/d/18nGZc4l5m8_wUFfexDDzwTRFq1ssiq3G/edit?usp=share_link&ouid=100412934752501203900&rtpof=true&sd=true",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Are you ready for an exciting challenge? Join us for an event where you will have the opportunity to design and build a model aircraft according to specific constraints and complete a mission as outlined in the problem statement. This is a unique opportunity to test your engineering skills and creativity as you work to design and build an aircraft that is not only aesthetically pleasing but also functional. Don't miss out on this opportunity and sign up today!"
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Sonali Sikarwar",
+            "contact": "6261282271"
+          }
+        ]
+      },
+      {
+        "name": "Aeroglisseur",
+        "prize": "20",
+        "thumbnail": "/images/events/Resize_Aeroglisseur.webp",
+        "problem_statement": "https://docs.google.com/document/d/18hjG7CDKO4YWp9C0ywGcHjDAHbksNTr1/edit?usp=share_link&ouid=100412934752501203900&rtpof=true&sd=true",
+        "register_UnStop": null,
+        "description": [
+          {
+            "desc": [
+              {
+                "1": "Join Technex 23’ for a thrilling hovercraft event! A hovercraft arena competition is an event in which participants compete against each other by building and maneuvering their remote controlled hovercraft vehicles around an arena. The aim of the competition is to complete various obstacles and challenges as quickly as possible while avoiding collisions with obstacles."
+              }
+            ]
+          }
+        ],
+        "poc": [
+          {
+            "name": "Ta Tarun Ramprakash",
+            "contact": "7708119213"
+          }
+        ]
+      }
+    ]
+  }
+ ]
+ 
+ 
