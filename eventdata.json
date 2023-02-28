@@ -1,0 +1,555 @@
+[
+    {
+      "parent": "Byte the Bits",
+      "desc": "Dive into the different domains of computation with Byte the bits. The events are designed to test your skill in competitive programming, machine learning and information security against the best in the world. Get your grey matter ready to solve some exciting problems!",
+      "events": [
+        {
+          "name": "International Coding Marathon",
+          "thumbnail": "/images/events/CodingMarathon.webp",
+          "prize": "20",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Our flagship ICM is a competitive programming contest to test coding skills against the best code masters of the world. Participants will have to write code to solve the given challenges within the given time limit. Submit the best optimal solution. There would be 6-7 problems of increasing difficulty. Judging would be based on accuracy and complexity."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Eshaan Gupta",
+              "contact": "8800860438"
+            }
+          ],
+          "Duration":"2-3 hours"
+        },
+        {
+          "name": "MLWare",
+          "prize": "20",
+          "thumbnail": "/images/events/ML_Ware.webp",
+          "problem_statement": "https://drive.google.com/file/d/1DaK1OYQahUkUoZu084eeMSKD1BZ_gpkv/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Machine learning is the new fab in the town and Technex brings a chance to show off your skills in ML. It is a machine learning competition where participants will be given certain problem statements with relevant data sets to solve real-world problems. They have to train ML models and give their best predictions. The event is three days long and would be hosted on Kaggle or Crowd AI. Come forward and join to show off your ML skills."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "R Tharun Gowda",
+              "contact": "7349595531"
+            },
+            {
+              "name": "Vikhyath Panambur Venkatraman",
+              "contact": "8105975839"
+            }
+          ],
+          "Duration":"3 days"
+        },
+        {
+          "name": "Capture the Flag",
+          "prize": "20",
+          "thumbnail": "/images/events/ctf.webp",
+          "problem_statement": "https://drive.google.com/file/d/1ee7tzUWttzU-OU0WnTPqWXZEj6oREUDd/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                { 
+                  "1": "An exclusive cyber security competition for all the hackers to flaunt their skills in various areas of computing and solve real-life security challenges. Solve some real-life cyber security challenges and be on top of the leader board. Participants should have profound knowledge of fields of cyber security and hacking in order to retrieve a hidden flag."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Yash Garg",
+              "contact": "9873001058"
+            }
+          ],
+          "Duration":"24 hours"
+        }
+      ]
+    },
+    {
+      "parent": "Robonex",
+      "desc": "Robonex brings to you multiple events focusing on the intersection of robot control and dynamics, machine learning, and image processing. The events will bring out the inner roboticist in you, as you participate in challenges and solve the different problems. It will test your ability to design, build and operate robots efficiently.",
+      "events": [
+        {
+          "name": "Pixelate",
+          "prize": "20",
+          "thumbnail": "/images/events/Pixelate.webp",
+          "problem_statement": "https://drive.google.com/file/d/17MJ4eelYE0iKw9-1iNFVT7z_n_m1ywZU/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1" : "The fifth industrial revolution could easily lead us to make robots that deliver parcels for us and cars that drive autonomously. What would that world look like and how would these robots operate in this futuristic utopia that we imagine?",
+                  "2" : "Take a peek into this imagined future with Pixelate, a path planning, and computer vision event in which you have to find the most optimal path for our autonomous robot to go from its inception to destination whilst avoiding real-world hindrances. Use your excellent image processing and path planning skills to take the robot to its destination in real-time traffic."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Vikhyath Venkatraman",
+              "contact": "8105975839"
+            },
+            {
+              "name": "Devendar Kachhwaha",
+              "contact": "9119334108"
+            }
+          ],
+          "Duration":"2 days"
+        },
+        {
+          "name": "Robotics Conclave",
+          "prize": "20",
+          "thumbnail": "/images/events/RoboticsConclave.webp",
+          "problem_statement": "https://drive.google.com/file/d/110GXaPqDwuwn4rdFXrDKmnBylqnqflsI/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1" : "This event aims to unleash their imagination, exhibit their talents and provide the opportunity to apply one’s technical knowledge in the field of robotics. All the participants are required to present a feasible robotics-based solution in the form of a presentation to an industrial problem ranging from the field of computer science to medicine."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Karan Aditya Singh Bishnoi",
+              "contact": "8824655515"
+            },
+            {
+              "name": "Aryan Srivastava",
+              "contact": "8879787870"
+            }
+          ],
+          "Duration":"2 days"
+        },
+        {
+          "name": "Labyrinth",
+          "prize": "10",
+          "thumbnail": "/images/events/Labyrinth.webp",
+          "problem_statement": "https://drive.google.com/file/d/1SInCcybg-3RbjF0ZybKxiYv98CGNnAhJ/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1" : "Labyrinth is a Motion Planning Event using ROS and Gazebo. Simulate a real-world problem in which a single agent has to map and navigate through a complex environment using ROS Navigation Stack and classical path planning algorithms with Dynamic Obstacle Avoidance."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Mainak Samanta",
+              "contact": "7872136912"
+            },
+            {
+              "name": "Bhuvnesh Soni",
+              "contact": "9462258170"
+            }
+          ],
+          "Duration":"2 days"
+        }
+      ]
+    },
+    {
+      "parent": "Supernova",
+      "desc": "Supernova is a culmination of three events based on various fields of astronomy, namely astrophysics, astrophotography, current affairs, mythology, and problem-solving. These events are sure to test your mettle as each event attracts participation from across the country and requires you to be an astronomy aficionado.",
+      "events": [
+        {
+          "name": "Astro-Quiz",
+          "prize": "20",
+          "thumbnail": "/images/events/Astro_quiz.webp",
+          "problem_statement": "https://drive.google.com/file/d/1POwaB3DsIEdQYkBaoK-1UCuAo2h3BtB1/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "AstroQuiz is a fast-paced quizzing event where the participants are judged on how well versed they are with various branches of astronomy such as astrophysics, mythology, and current affairs to name a few. To test their understanding and know-how in Astronomy, contestants are expected to compete over three different rounds."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Amit Baheti",
+              "contact": "9587887413"
+            },
+            {
+              "name": "Priyadarshini",
+              "contact": "9498004141"
+            },
+            {
+              "name": "Shivam",
+              "contact": "9582494875"
+            }
+          ]
+        },
+        {
+          "name": "Scientists of Utopia",
+          "prize": "20",
+          "thumbnail": "/images/events/Scientists_of_utopia.webp",
+          "problem_statement": "https://drive.google.com/file/d/1fCXP-Bxv5VhV29mxnYNZcOD3vcDrOQ7y/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "The most quirky event of the category “Supernova” which deals hypothetically, Scientists of Utopia is a case study event involving the problems faced by Utopian scientists on an ideal planet. They are capable of doing anything, but are you? Participants are required to help Utopian scientists cope up with the problems by their intriguing solutions to the case study."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Harsh Pandey",
+              "contact": "8840241988"
+            },
+            {
+              "name": "Mahashay",
+              "contact": "9358144579"
+            }
+          ]
+        },
+        {
+          "name": "Astrophotography",
+          "prize": "10",
+          "thumbnail": "/images/events/AstroPhotography.webp",
+          "problem_statement": "https://drive.google.com/file/d/1J831MaZDl8hDERrSYM00mMMbJAefnlOp/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Just as the name suggests, Astrophotography is an event that encompasses the interesting field of astronomy along with the vast expanse of photography. The participants will be tested on their technical prowess and their know-how about various mythologies related to astronomy."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Simran",
+              "contact": "7568460307"
+            },
+            {
+              "name": "Aaryam",
+              "contact": "9424637059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "Riqueza",
+      "desc": "Riqueza is a multi disciplinary event that encompasses the Business domains of Finance, Product Management and Fundamental Business Awareness. The event pits you against contestants from over the country as you engage in an enthralling competition of wits and using your business skills to come out on top.",
+      "events": [
+        {
+          "name": "Bulls on the Floor",
+          "prize": "10",
+          "thumbnail": "/images/events/Bulls On The Floor.webp",
+          "problem_statement": "https://drive.google.com/file/d/1rCTHLin5e4ox9E40FgWPCfeezheAhCnz/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1" : "This is an Online Stock Trading event aimed at showcasing financial awareness, critical thinking and analytical ability along with a plethora of portfolio management knowledge. This gives an opportunity to be hands-on with various financial concepts and principles such as portfolio management, investment decisions and wealth maximization."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Naveen Kumar",
+              "contact": "9468350343"
+            }
+          ]
+        },
+        {
+          "name": "PRODOMANIA",
+          "prize": "20",
+          "problem_statement": "https://drive.google.com/file/d/1ps9bRQGINTBjmYWSZK2JVs3M8LZW_np7/view?usp=sharing",
+          "thumbnail": "/images/events/Prodomania.webp",
+          "sponsor": "/images/events/AngelOne.webp",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1" : "Prodomania will evaluate the candidate's understanding of how a Product works, the nuances involved when considering a user journey, and the overall impact on the business."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Archit Gupta",
+              "contact": "7055848000"
+            }
+          ]
+        },
+        {
+          "name": "Biz Quiz",
+          "prize": "20",
+          "thumbnail": "/images/events/Biz_quiz.webp",
+          "problem_statement": "https://drive.google.com/file/d/1H_eMz99_NitKkARPg95SMC8Pnikv-fMX/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1" : "BizQuiz is an enthralling quizzing event where the participants compete with fellow Quizheads to test their proficiency in the whole Business domain encompassing the fields of Strategy, Marketing, Start-ups, Finance among others. So, put your business and entrepreneurial knowledge to the test and emerge with a better developed business acumen."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Suyash Tripathi",
+              "contact": "9140159378"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "Pahal",
+      "desc": "Pahal is an initiative-cum-multidimensional event that covers a wide range of categories of sustainable topics. This event places you against opponents from across the country in an entertaining intellectual competition in which you must utilise your ideas and pitching skills to win.",
+      "events": [
+        {
+          "name": "Techno Conundrum",
+          "prize": "20",
+          "thumbnail": "/images/events/Techno_conundrum.webp",
+          "problem_statement": "https://drive.google.com/file/d/1jErWEbHPmvNGpqxmCmgpIph2tQstouf5/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "TechnoConundrum is a 2-Day event where you get a fantastic opportunity to showcase your problem-solving and puzzle-tackling skills like a tech-greek. You will get broad exposure to exciting puzzles and questions regarding the latest technological innovations and achievements. This event will initiate the zeal among you to get familiar with scientific investigation, critical thinking, reasoning, and analyzing the given puzzle."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Divyam Gupta",
+              "contact": "9034460083"
+            }
+          ]
+        },
+        {
+          "name": "Explica",
+          "prize": "20",
+          "thumbnail": "/images/events/Explica.webp",
+          "problem_statement": "https://drive.google.com/file/d/1q3T2DJjb2qhBnuz0DIF8zNKvKIt7gp1o/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Explica is a techno-managathon event in which a team of 2- 3 members have to work out on an on-spot given problem statement. We aim to create a platform to address challenges of today with technologies of tomorrow. It provides a platform to solve some of the pressing problems we face in our daily lives."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "K. Yashasree Chandana",
+              "contact": "9390201937"
+            }
+          ]
+        },
+        {
+          "name": "Fake Investors",
+          "prize": "10",
+          "thumbnail": "/images/events/Fake_Investor.webp",
+          "problem_statement": "https://drive.google.com/file/d/159TKPoQ3ezUBOZH2v2JhUC_QEnlUFjL7/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Are you a dumbfounding innovator and have astounding ideas?",
+                  "2": "You think you have got all that potential to put an excellent idea in the form of a working model, but waiting for an opportunity... The wait is over now.",
+                  "3": "FAKE INVESTORS is here now!! A wonderful platform where you can improvise your innovative ideas in front of the investment panel. It's time to think 'out of the box'."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Ankur Shukla",
+              "contact": "7525046551"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "Extreme Engineering",
+      "desc": "Extreme Engineering is the field that involves and cherishes the real-life development being brought up by the analysis of the intellectual design we create through the base of our research. The event consists of interesting competitions to test your ability to convert your imagination to innovation viz. Research, design, and analyze your model and to build it.",
+      "events": [
+        {
+          "name": "Blue Print",
+          "prize": "10",
+          "thumbnail": "/images/events/blueprint.webp",
+          "problem_statement": "https://drive.google.com/file/d/1am9DsR99BkE0N4vcbKBzcEf8nsR0W1-k/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Participants have to give an optimized CAD design of the given problem statement in the given time. The exact CAD model to be made will be provided on the spot. Participants have to submit a brief design report on their CAD to validate their design."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Y. Krishna Pavan Sai",
+              "contact": "9390132659"
+            }
+          ],
+          "Duration":"3 days"
+        },
+        {
+          "name": "Hydrac's",
+          "prize": "10",
+          "thumbnail": "/images/events/hydracs.webp",
+          "problem_statement": "https://drive.google.com/file/d/1UQ5SwjoPWalVdpRBuZr-n0HDsGXaayNu/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "A hydraulically operated JCB building competition. It should be constructed with a number of moving parts, connected in a predetermined manner. The arm must be guided in a constrained way to require given movement as input. Judgment will be based on the movability of the arm and the amount of load it can carry."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Lakshay",
+              "contact": "998359037"
+            }
+          ],
+          "Duration":"2 days"
+        },
+        {
+          "name": "Throttlepedia",
+          "prize": "10",
+          "thumbnail": "/images/events/throttlepedia.webp",
+          "problem_statement": "https://drive.google.com/file/d/1ARxYxj6V0ANFxpKT3hSthThIpQ1KG5ul/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Throttle pedia is a Case study competition which is concerned with the problems within the field of automobiles. The participants are expected to present their unique approach and solution to the given problem within the roof."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Ashutosh Agrawal",
+              "contact": "7220857334"
+            },
+            {
+              "name": "Lakshay Kumar",
+              "contact": "998359037"
+            }
+          ],
+          "Duration":"3 days"
+        },
+        {
+          "name": "Replica",
+          "prize": "10",
+          "thumbnail": "/images/events/replica.webp",
+          "problem_statement": "https://drive.google.com/file/d/13QGx9_Bc5KmA5k5W58W6ug59YZ57pte2/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "This is a simulation competition. Participants will have to create a 3D CAD model of a given object using CAD software. Participants would then have to perform structural analysis using CAE simulation Softwares listed below on the model to optimize it as per the  requirement and also find the strength of the model by  finding stress and strain by using suitable techniques and minimize cost."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Akshit Mahariya",
+              "contact": "8824654631"
+            }
+          ],
+          "Duration":"3 days"
+        }
+      ]
+    },
+    {
+      "parent": "Ascension",
+      "desc": "Ascension is one of those breathtaking events which cover the domains of aeromodelling as well as aerial robotics. Game simulation is a crucial integrant of this event that makes it even more engrossing. While programming a quadcopter to make it autonomous is itself quite invigorating for the contestants, on the other hand, they get to showcase their UAV designing skills to carry out certain tasks.",
+      "events": [
+        {
+          "name": "Art of Flight",
+          "prize": "10",
+          "thumbnail": "/images/events/Art_of_Flight.webp",
+          "problem_statement": "https://drive.google.com/file/d/1FKuhsjUzK1ZfxVUkHRzgi_wB_9NyYUph/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Experience the thrill of drone racing through this FPV race event. Your mission is to be the fastest, most skilled FPV racer. Feel the adrenaline rush that comes out of maneuvering your drone with heart-pounding speed through lines and gates with intense mathematical precision, next to unforgiving obstacles and through small gaps."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name" : "Vimal Kumar Meena",
+              "contact": "7742834191"
+            }
+          ]
+        },
+        {
+          "name": "MAGE - Wings on Mars",
+          "prize": "20",
+          "thumbnail": "/images/events/MAGE.webp",
+          "problem_statement": "https://drive.google.com/file/d/1UVquRRCEZxVoXh8omqwDmkrMqcpN6UdB/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "Our mission is focused on investigating the Isidis Planitia region of Mars, which will be based on the knowledge of the planet’s geophysical characteristics, its atmosphere, and terrain. A UAV should be designed in such a way that it is capable of multiple flights, long-endurance, high-resolution imagery, and multiple surface sampling."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name" : "Deepak Kumar Meena",
+              "contact": "8104323941"
+            }
+          ]
+        },
+        {
+          "name": "Dronetech",
+          "prize": "20",
+          "thumbnail": "/images/events/dronetech.webp",
+          "problem_statement": "https://drive.google.com/file/d/1OQtkY-IJ8JfkzqL9plFGfvZmemwYsR3O/view?usp=sharing",
+          "description": [
+            {
+              "desc" : [
+                {
+                  "1": "The purpose of this event is to test the computer vision skills of the participants along with the application of drone dynamics within a simulator. Without colliding with various objects present in the arena, their drone has to navigate to some specified points in the minimum possible time. The drone should be programmed robust enough to perform the task in the final arena, while only the practice arena will be available to them."
+                }
+              ]
+            }
+          ],
+          "poc": [
+            {
+              "name": "Vishwas",
+              "contact": "9440459360"
+            }
+          ]
+        }
+      ]
+    }
+  ]
